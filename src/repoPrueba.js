@@ -4,6 +4,7 @@ export default [
     name: "Leanne Graham",
     username: "Bret",
     email: "Sincere@april.biz",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Kulas Light",
       suite: "Apt. 556",
@@ -14,7 +15,7 @@ export default [
         lng: "81.1496",
       },
     },
-    phone: "1-770-736-8031 x56442",
+    phone: "1-770-736-8031",
     website: "hildegard.org",
     company: {
       name: "Romaguera-Crona",
@@ -27,6 +28,7 @@ export default [
     name: "Ervin Howell",
     username: "Antonette",
     email: "Shanna@melissa.tv",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Victor Plains",
       suite: "Suite 879",
@@ -37,7 +39,7 @@ export default [
         lng: "-34.4618",
       },
     },
-    phone: "010-692-6593 x09125",
+    phone: "010-692-6593",
     website: "anastasia.net",
     company: {
       name: "Deckow-Crist",
@@ -50,6 +52,7 @@ export default [
     name: "Clementine Bauch",
     username: "Samantha",
     email: "Nathan@yesenia.net",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Douglas Extension",
       suite: "Suite 847",
@@ -73,6 +76,7 @@ export default [
     name: "Patricia Lebsack",
     username: "Karianne",
     email: "Julianne.OConner@kory.org",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Hoeger Mall",
       suite: "Apt. 692",
@@ -83,7 +87,7 @@ export default [
         lng: "-164.2990",
       },
     },
-    phone: "493-170-9623 x156",
+    phone: "493-170-9623",
     website: "kale.biz",
     company: {
       name: "Robel-Corkery",
@@ -96,6 +100,7 @@ export default [
     name: "Chelsey Dietrich",
     username: "Kamren",
     email: "Lucio_Hettinger@annie.ca",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Skiles Walks",
       suite: "Suite 351",
@@ -119,6 +124,7 @@ export default [
     name: "Mrs. Dennis Schulist",
     username: "Leopoldo_Corkery",
     email: "Karley_Dach@jasper.info",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Norberto Crossing",
       suite: "Apt. 950",
@@ -129,7 +135,7 @@ export default [
         lng: "71.7478",
       },
     },
-    phone: "1-477-935-8478 x6430",
+    phone: "1-477-935-8478",
     website: "ola.org",
     company: {
       name: "Considine-Lockman",
@@ -142,6 +148,7 @@ export default [
     name: "Kurtis Weissnat",
     username: "Elwyn.Skiles",
     email: "Telly.Hoeger@billy.biz",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Rex Trail",
       suite: "Suite 280",
@@ -152,7 +159,7 @@ export default [
         lng: "21.8984",
       },
     },
-    phone: "210.067.6132",
+    phone: "2100676132",
     website: "elvis.io",
     company: {
       name: "Johns Group",
@@ -165,6 +172,7 @@ export default [
     name: "Nicholas Runolfsdottir V",
     username: "Maxime_Nienow",
     email: "Sherwood@rosamond.me",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Ellsworth Summit",
       suite: "Suite 729",
@@ -175,7 +183,7 @@ export default [
         lng: "-120.7677",
       },
     },
-    phone: "586.493.6943 x140",
+    phone: "586-493-6943",
     website: "jacynthe.com",
     company: {
       name: "Abernathy Group",
@@ -185,6 +193,7 @@ export default [
   },
   {
     id: 9,
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     name: "Glenna Reichert",
     username: "Delphine",
     email: "Chaim_McDermott@dana.io",
@@ -198,7 +207,7 @@ export default [
         lng: "-168.8889",
       },
     },
-    phone: "(775)976-6794 x41206",
+    phone: "(775)976-6794 ",
     website: "conrad.com",
     company: {
       name: "Yost and Sons",
@@ -211,6 +220,7 @@ export default [
     name: "Clementina DuBuque",
     username: "Moriah.Stanton",
     email: "Rey.Padberg@karina.biz",
+    img: "https://res.cloudinary.com/dj8p0rdxn/image/upload/v1676414550/xuj9waxpejcnongvhk9o.png",
     address: {
       street: "Kattie Turnpike",
       suite: "Suite 198",

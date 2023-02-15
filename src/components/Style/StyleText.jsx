@@ -17,6 +17,10 @@ const styles = StyleSheet.create({
   ColorPrimary: {
     color: theme.colors.Primary,
   },
+  header:{
+    fontSize: theme.fontSizes.header,
+  },
+
   title: {
     fontSize: theme.fontSizes.title,
   },
@@ -39,6 +43,7 @@ export default function StyleText({
     fontWeight === "bold" && styles.bold,
     fontWeight === "medium" && styles.normal,
     fontSize === "big" && styles.title,
+    fontSize === "header" && styles.header,
     fontSize === "medium" && styles.subTitle,
     ColorPrimary === "primary" && styles.ColorPrimary,
   ];

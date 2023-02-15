@@ -9,7 +9,8 @@ const theme ={
     fontSizes:{
         body:12,
         subTitle:16,
-        title: 18
+        title: 18,
+        header:22
     },
     Fonts:{
         main:'System'
