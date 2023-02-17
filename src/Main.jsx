@@ -4,30 +4,33 @@ import Constants from "expo-constants";
 import RepositoryList from "./components/RepositoryList";
 import { View, StyleSheet, SafeAreaView, TextInput , Image} from "react-native";
 import StyleText from "./components/Style/StyleText";
+import Navigation from "../Navigation";
 const Main = () => {
   return (
-    <View style={styles.Container}>
-      <View style={styles.Header}>
-        <StyleText fontWeight="bold" fontSize="header">
-          {" "}
-          Agenda
-        </StyleText>
-      </View>
-      <SafeAreaView>
-        <View style={styles.ContainerInputImg}>
-        <Image style={styles.image}  source={{uri:search}}/>
-            <TextInput
-          style={styles.input}
-          placeholder="search contact"
-          // onChangeText={onChangeText}
-          // value={text}
-        />
-        </View>
+    // <View style={styles.Container}>
+    //   <View style={styles.Header}>
+    //     <StyleText fontWeight="bold" fontSize="header">
+    //       {" "}
+    //       Agenda
+    //     </StyleText>
+    //   </View>
+    //   <SafeAreaView>
+    //     <View style={styles.ContainerInputImg}>
+    //     <Image style={styles.image}  source={{uri:search}}/>
+    //         <TextInput
+    //       style={styles.input}
+    //       placeholder="search contact"
+    //       // onChangeText={onChangeText}
+    //       // value={text}
+    //     />
+    //     </View>
       
 
-        <RepositoryList />
-      </SafeAreaView>
-    </View>
+    //     <RepositoryList />
+    //   </SafeAreaView>
+    // </View>
+    
+    <Navigation/>
   );
 };
 
